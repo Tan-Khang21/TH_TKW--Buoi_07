@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+.container {
+  width: 100%;
+  height: 160px;
+  padding: 40px 20px;
+}
+.boxtext {
+  width: 50%;
+  background-color: white;
+}

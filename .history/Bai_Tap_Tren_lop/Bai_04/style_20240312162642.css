@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+.title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.container {
+  display: flex;
+}

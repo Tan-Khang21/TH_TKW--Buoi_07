@@ -1,0 +1,10 @@
+.container {
+  margin: 0 auto;
+  width: 1200px;
+}
+img {
+  transition: 0.2 linear;
+}
+img:hover {
+  transform: scale(1.3);
+}

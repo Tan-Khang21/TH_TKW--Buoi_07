@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+.container {
+  width: 250px;
+}
+.number {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4caf50;
+}

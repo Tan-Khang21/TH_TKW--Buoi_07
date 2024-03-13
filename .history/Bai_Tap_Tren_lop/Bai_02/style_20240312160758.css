@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+.box {
+  width: 600px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text {
+  font-size: 30px;
+}

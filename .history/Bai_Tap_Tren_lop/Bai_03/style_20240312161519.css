@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+}
+.container {
+  width: 100px;
+  height: 30px;
+  font-size: 20px;
+}
